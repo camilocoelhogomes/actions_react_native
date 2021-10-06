@@ -19,4 +19,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          msg: App is ready for review, you can [see it here](https://expo.dev/@camilocoelhogomes/use-expo?release-channel=pr-${{ github.event.number }}).
+          msg: App is ready for review, you can [see it here](https://expo.dev/@bycedric/use-expo?release-channel=pr-${{ github.event.number }}).
