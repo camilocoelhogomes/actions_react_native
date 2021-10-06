@@ -5,7 +5,11 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
+<<<<<<< HEAD
       <Text>Testing PR</Text>
+=======
+      <Text>Camilo 2</Text>
+>>>>>>> main
       <StatusBar style="auto" />
     </View>
   );
